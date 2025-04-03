@@ -1,0 +1,48 @@
+import matplotlib.pyplot as plt
+
+# Define node positions
+node_positions = {
+    "A": (1, 2),
+    "B": (3, 4),
+    "C": (5, 1),
+    "D": (2, 5)
+}
+
+# Define edges
+edges = [("A", "B"), ("B", "C"), ("C", "A"), ("A", "D")]
+
+# Modify this dictionary to change edge labels
+edge_labels = {
+    ("A", "B"): "1",
+    ("B", "C"): "Edge 2",
+    ("C", "A"): "Edge 3",
+    ("A", "D"): "Edge 4"
+}
+
+# Plot nodes
+for name, (x, y) in node_positions.items():
+    plt.scatter(x, y, color='red', s=100)  # Draw node
+    plt.text(x, y, name, fontsize=12, ha='right')  # Label node
+
+# Draw edges and label them
+for (start, end) in edges:
+    x_values = [node_positions[start][0], node_positions[end][0]]
+    y_values = [node_positions[start][1], node_positions[end][1]]
+    
+    # Draw the edge
+    plt.plot(x_values, y_values, 'k-')
+
+    # Compute edge midpoint for labeling
+    mid_x = (x_values[0] + x_values[1]) / 2
+    mid_y = (y_values[0] + y_values[1]) / 2
+
+    # Label the edge
+    edge_name = edge_labels.get((start, end), "")  # Get label from dictionary
+    plt.text(mid_x, mid_y, edge_name, fontsize=10, color='red', ha='center')
+
+# Display plot
+plt.xlabel("X-axis")
+plt.ylabel("Y-axis")
+plt.title("Graph with Custom Edge Names")
+
+plt.show()
