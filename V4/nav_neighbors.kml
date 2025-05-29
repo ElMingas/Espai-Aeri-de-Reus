@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="neighbor_style">
+      <LineStyle>
+        <color>ff00aaff</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Placemark>
+      <name>NELAS (8895)</name>
+      <Point>
+        <coordinates>3.5208333333,40.0941666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CDP (2552)</name>
+      <Point>
+        <coordinates>3.4341666667,39.6975,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Connection 8895-2552</name>
+      <styleUrl>#neighbor_style</styleUrl>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>3.5208333333,40.0941666667,0 3.4341666667,39.6975,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>POS (10781)</name>
+      <Point>
+        <coordinates>3.1147222222,39.9275,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Connection 8895-10781</name>
+      <styleUrl>#neighbor_style</styleUrl>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>3.5208333333,40.0941666667,0 3.1147222222,39.9275,0</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>CRETA (2704)</name>
+      <Point>
+        <coordinates>0.0616666667,40.8722222222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>RIMES (11236)</name>
+      <Point>
+        <coordinates>-0.0638888889,40.5580555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SAURA (11886)</name>
+      <Point>
+        <coordinates>-0.1833333333,40.2561111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SGO (11954)</name>
+      <Point>
+        <coordinates>-0.2077777778,39.6741666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SOPET (12271)</name>
+      <Point>
+        <coordinates>-0.0047222222,39.8338888889,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TORDU (13284)</name>
+      <Point>
+        <coordinates>0.5883333333,40.2580555556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LOTOS (7587)</name>
+      <Point>
+        <coordinates>1.0030555556,40.5497222222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>EBROX (3516)</name>
+      <Point>
+        <coordinates>1.2316666667,40.7086111111,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PELAT (10314)</name>
+      <Point>
+        <coordinates>0.4425,41.0216666667,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>MLA (8336)</name>
+      <Point>
+        <coordinates>0.1652777778,41.1297222222,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Optimal Route</name>
+      <description>Route with 10 navigation points</description>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <coordinates>0.0616666667,40.8722222222,0 -0.0638888889,40.5580555556,0 -0.1833333333,40.2561111111,0 -0.2077777778,39.6741666667,0 -0.0047222222,39.8338888889,0 0.5883333333,40.2580555556,0 1.0030555556,40.5497222222,0 1.2316666667,40.7086111111,0 0.4425,41.0216666667,0 0.1652777778,41.1297222222,0</coordinates>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

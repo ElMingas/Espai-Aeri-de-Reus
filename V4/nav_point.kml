@@ -1,0 +1,5813 @@
+<?xml version="1.0" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<Placemark>
+			<name>ABETO (48)</name>
+			<Point>
+				<coordinates>-8.0563888889,40.4297222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ABIXO (77)</name>
+			<Point>
+				<coordinates>3.1083333333,42.1861111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ABLEG (88)</name>
+			<Point>
+				<coordinates>-8.4311111111,40.7227777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ABOSI (118)</name>
+			<Point>
+				<coordinates>-1.2844444444,39.7791666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ABRAT (124)</name>
+			<Point>
+				<coordinates>-7.6541666667,39.8216666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ABRIL (129)</name>
+			<Point>
+				<coordinates>-8.5802777778,40.3961111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ABUPI (168)</name>
+			<Point>
+				<coordinates>-7.2361111111,41.7511111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ADEDI (200)</name>
+			<Point>
+				<coordinates>-2.1791666667,43.1761111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ADINO (223)</name>
+			<Point>
+				<coordinates>-6.3736111111,40.0177777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ADORO (266)</name>
+			<Point>
+				<coordinates>-6.28,41.4830555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ADQ (273)</name>
+			<Point>
+				<coordinates>-3.9708333333,38.8538888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ADRAS (275)</name>
+			<Point>
+				<coordinates>-2.7275,36.8322222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ADSER (286)</name>
+			<Point>
+				<coordinates>1.2030555556,43.2416666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ADUXO (306)</name>
+			<Point>
+				<coordinates>-2.0641666667,40.5122222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ADX (313)</name>
+			<Point>
+				<coordinates>2.3958333333,39.5494444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AGENA (344)</name>
+			<Point>
+				<coordinates>3.4886111111,41.5447222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AGIDO (352)</name>
+			<Point>
+				<coordinates>-2.6269444444,37.1955555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AGUVO (397)</name>
+			<Point>
+				<coordinates>-8.1411111111,39.2719444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AKAMU (439)</name>
+			<Point>
+				<coordinates>2.4713888889,39.6577777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AKEPO (450)</name>
+			<Point>
+				<coordinates>-0.1383333333,43.3158333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AKOKI (468)</name>
+			<Point>
+				<coordinates>-3.2186111111,40.2244444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AKOPA (473)</name>
+			<Point>
+				<coordinates>1.7916666667,41.6811111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AKUNU (488)</name>
+			<Point>
+				<coordinates>3.3733333333,43.1327777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALAGU (496)</name>
+			<Point>
+				<coordinates>-7.6144444444,38.0886111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALAMA (497)</name>
+			<Point>
+				<coordinates>-8.55,39.2233333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALAOS (502)</name>
+			<Point>
+				<coordinates>-6.5513888889,37.2122222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALBER (515)</name>
+			<Point>
+				<coordinates>2.8322222222,42.4513888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALBIZ (519)</name>
+			<Point>
+				<coordinates>-2.6358333333,43.2241666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALCOL (520)</name>
+			<Point>
+				<coordinates>-4.5188888889,37.8558333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALEPO (530)</name>
+			<Point>
+				<coordinates>-1.9633333333,42.3436111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALORA (577)</name>
+			<Point>
+				<coordinates>-5.2119444444,36.8177777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALOSU (580)</name>
+			<Point>
+				<coordinates>0.4986111111,41.9330555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALR (586)</name>
+			<Point>
+				<coordinates>3.2155555556,36.6911111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALT (589)</name>
+			<Point>
+				<coordinates>-0.57,38.2683333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALT.A (590)</name>
+			<Point>
+				<coordinates>-0.56192225,38.28822875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALT.D (591)</name>
+			<Point>
+				<coordinates>-0.5560695333,38.2823164,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALT01 (592)</name>
+			<Point>
+				<coordinates>-0.3419413167,38.2371194,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALT02 (593)</name>
+			<Point>
+				<coordinates>-0.5333963333,38.2967747333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ALT03 (594)</name>
+			<Point>
+				<coordinates>-0.5860480833,38.2697830833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AMBEL (623)</name>
+			<Point>
+				<coordinates>-1.7144444444,41.7708333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AMGAR (638)</name>
+			<Point>
+				<coordinates>-3.2533333333,42.555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AMOTA (683)</name>
+			<Point>
+				<coordinates>-5.2516666667,37.6055555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AMPOL (692)</name>
+			<Point>
+				<coordinates>0.6391666667,40.8036111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AMPUR (696)</name>
+			<Point>
+				<coordinates>-3.4302777778,43.3233333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AMR (697)</name>
+			<Point>
+				<coordinates>-2.2594444444,36.8330555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AMR.A (698)</name>
+			<Point>
+				<coordinates>-2.36919135,36.8461642333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AMR.D (699)</name>
+			<Point>
+				<coordinates>-2.3733335667,36.8422863167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AMTOS (729)</name>
+			<Point>
+				<coordinates>-3.2211111111,43.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ANANA (749)</name>
+			<Point>
+				<coordinates>-2.4127777778,39.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ANDEV (755)</name>
+			<Point>
+				<coordinates>-6.5997222222,37.3938888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ANEKU (763)</name>
+			<Point>
+				<coordinates>1.8427777778,42.5244444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ANETO (766)</name>
+			<Point>
+				<coordinates>0.5583333333,42.6930555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ANTON (789)</name>
+			<Point>
+				<coordinates>1.6983333333,41.26,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ANZAN (792)</name>
+			<Point>
+				<coordinates>-3.2213888889,39.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AOG.A (794)</name>
+			<Point>
+				<coordinates>-6.3599326667,36.6659457,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AOG.D (795)</name>
+			<Point>
+				<coordinates>-6.3491638667,36.65727625,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>APADU (798)</name>
+			<Point>
+				<coordinates>-5.2952777778,37.2969444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ARBEK (830)</name>
+			<Point>
+				<coordinates>1.1297222222,41.5438888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ARBIN (833)</name>
+			<Point>
+				<coordinates>-2.6138888889,42.6797222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ARCON (841)</name>
+			<Point>
+				<coordinates>-2.3144444444,40.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ARDID (852)</name>
+			<Point>
+				<coordinates>-6.2822222222,41.1733333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ARGOR (869)</name>
+			<Point>
+				<coordinates>0.2986111111,39.5386111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ARJON (873)</name>
+			<Point>
+				<coordinates>-3.8747222222,38.0447222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ARLE0 (884)</name>
+			<Point>
+				<coordinates>0.2699069167,40.55538575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ARLUN (892)</name>
+			<Point>
+				<coordinates>-3.6136111111,42.0216666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ARPEX (927)</name>
+			<Point>
+				<coordinates>-3.0241666667,37.5797222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ARROS (937)</name>
+			<Point>
+				<coordinates>-6.1277777778,37.5952777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ARSAS (942)</name>
+			<Point>
+				<coordinates>-5.7905555556,36.8552777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASBIN (988)</name>
+			<Point>
+				<coordinates>-3.1763888889,40.255,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASDEB (994)</name>
+			<Point>
+				<coordinates>-8.4919444444,42.5158333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASKEL (1019)</name>
+			<Point>
+				<coordinates>-1.7080555556,37.4125,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASMOT (1049)</name>
+			<Point>
+				<coordinates>2.7155555556,39.2758333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASPAS (1057)</name>
+			<Point>
+				<coordinates>-3.0458333333,39.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASPET (1062)</name>
+			<Point>
+				<coordinates>0.9797222222,43.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASPOR (1068)</name>
+			<Point>
+				<coordinates>-8.0811111111,41.815,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASTEG (1073)</name>
+			<Point>
+				<coordinates>4.1322222222,43.4144444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASTEK (1074)</name>
+			<Point>
+				<coordinates>1.8219444444,41.2088888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASTRO (1087)</name>
+			<Point>
+				<coordinates>-1.2630555556,39.0244444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>AVILA (1184)</name>
+			<Point>
+				<coordinates>-4.55,40.6247222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BABEX (1244)</name>
+			<Point>
+				<coordinates>-7.0838888889,41.0402777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BABOV (1266)</name>
+			<Point>
+				<coordinates>-6.8736111111,39.8763888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BAENA (1315)</name>
+			<Point>
+				<coordinates>-4.3319444444,37.5683333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BAGAS (1321)</name>
+			<Point>
+				<coordinates>-2.0947222222,43.0983333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BAGAX (1322)</name>
+			<Point>
+				<coordinates>2.1544444444,39.0511111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BAGRO (1338)</name>
+			<Point>
+				<coordinates>-0.0972222222,43.2097222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BAKAX (1348)</name>
+			<Point>
+				<coordinates>2.5297923833,39.4570359667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BALDE (1382)</name>
+			<Point>
+				<coordinates>0.5227777778,41.23,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BALIO (1390)</name>
+			<Point>
+				<coordinates>4.1822222222,39.6483333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BALNO (1402)</name>
+			<Point>
+				<coordinates>-6.9816666667,41.7305555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BAMGO (1429)</name>
+			<Point>
+				<coordinates>3.0402777778,42.8822222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BAN (1450)</name>
+			<Point>
+				<coordinates>-2.63,41.3236111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BAN07 (1451)</name>
+			<Point>
+				<coordinates>-2.5617187167,40.8278145667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BANBU (1456)</name>
+			<Point>
+				<coordinates>1.5216666667,41.0166666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BANOL (1468)</name>
+			<Point>
+				<coordinates>2.8466666667,42.1266666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BANVO (1481)</name>
+			<Point>
+				<coordinates>-2.6302777833,41.3236111167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BARBO (1503)</name>
+			<Point>
+				<coordinates>0.9027777778,42.4488888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BARDI (1506)</name>
+			<Point>
+				<coordinates>-6.3025,40.5836111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BARKO (1521)</name>
+			<Point>
+				<coordinates>-6.9447222222,42.2005555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BASIM (1553)</name>
+			<Point>
+				<coordinates>-3.2666666667,41.5044444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BASSO (1563)</name>
+			<Point>
+				<coordinates>3.1225,39.54444445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BASUK (1568)</name>
+			<Point>
+				<coordinates>-6.1730555556,43.3191666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BATAX (1574)</name>
+			<Point>
+				<coordinates>-6.6219444444,41.7005555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BAVER (1602)</name>
+			<Point>
+				<coordinates>0.675,38.8797222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BAXOP (1628)</name>
+			<Point>
+				<coordinates>-4.6111111111,40.0575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BAZAS (1631)</name>
+			<Point>
+				<coordinates>-3.1852777778,37.7344444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BBI (1655)</name>
+			<Point>
+				<coordinates>-5.4569444444,41.0166666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BCN.A (1662)</name>
+			<Point>
+				<coordinates>2.0844560333,41.29943885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BCN.D (1663)</name>
+			<Point>
+				<coordinates>2.0768662333,41.2972901333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BCN04 (1664)</name>
+			<Point>
+				<coordinates>2.39200505,40.9109612167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BCN12 (1665)</name>
+			<Point>
+				<coordinates>2.3655927667,41.0132562,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BCN46 (1666)</name>
+			<Point>
+				<coordinates>1.8076067,41.1447914333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BEBES (1684)</name>
+			<Point>
+				<coordinates>1.7033333333,39.0733333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BEDAL (1695)</name>
+			<Point>
+				<coordinates>-7.7538888889,42.1047222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BEGOX (1727)</name>
+			<Point>
+				<coordinates>-0.7719444444,39.0691666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BEGUY (1732)</name>
+			<Point>
+				<coordinates>-1.4508333333,43.0583333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BEJ (1733)</name>
+			<Point>
+				<coordinates>-7.9266666667,38.1283333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BELDU (1757)</name>
+			<Point>
+				<coordinates>-7.7772222222,41.3586111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BELIG (1764)</name>
+			<Point>
+				<coordinates>0.0138888889,43.2672222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BENED (1800)</name>
+			<Point>
+				<coordinates>-2.1583333333,40.2105555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BENID (1803)</name>
+			<Point>
+				<coordinates>1.4808333333,41.2380555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BERAX (1836)</name>
+			<Point>
+				<coordinates>-8.1766666667,43.2519444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BERGA (1842)</name>
+			<Point>
+				<coordinates>2.0319444444,42.1713888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BERUC (1858)</name>
+			<Point>
+				<coordinates>-3.5613888889,40.885,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BESOR (1875)</name>
+			<Point>
+				<coordinates>-0.2291666667,38.4663888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BETIX (1888)</name>
+			<Point>
+				<coordinates>-6.0222222222,37.6608333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BEXID (1921)</name>
+			<Point>
+				<coordinates>-3.4847222222,39.5744444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BEXUR (1925)</name>
+			<Point>
+				<coordinates>3.2086111167,41.9477777833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BEZAR (1927)</name>
+			<Point>
+				<coordinates>-5.1488888889,37.9622222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BGR (1940)</name>
+			<Point>
+				<coordinates>3.2091666667,41.9477777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BIBEL (1959)</name>
+			<Point>
+				<coordinates>-1.8827777778,42.7341666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BIDAC (1971)</name>
+			<Point>
+				<coordinates>-1.1355555556,43.4172222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BINVA (2016)</name>
+			<Point>
+				<coordinates>-3.9083333333,39.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BIRBA (2020)</name>
+			<Point>
+				<coordinates>-7.5119444444,39.1055555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BIRMI (2027)</name>
+			<Point>
+				<coordinates>-8.1988888889,42.2944444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BISBA (2037)</name>
+			<Point>
+				<coordinates>3.6258333333,42.0863888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BISES (2041)</name>
+			<Point>
+				<coordinates>1.6891666667,41.3186111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BISMU (2047)</name>
+			<Point>
+				<coordinates>-6.5386111111,42.7966666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BJA (2065)</name>
+			<Point>
+				<coordinates>-7.9216666667,38.1591666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BL045 (2071)</name>
+			<Point>
+				<coordinates>3.0251583167,41.65430415,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BL057 (2072)</name>
+			<Point>
+				<coordinates>2.2995525333,40.8607578667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BL058 (2073)</name>
+			<Point>
+				<coordinates>2.278676,40.9369960167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BLASO (2077)</name>
+			<Point>
+				<coordinates>3.6444444444,40.6527777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BLN (2098)</name>
+			<Point>
+				<coordinates>-3.625,38.1525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BLV (2102)</name>
+			<Point>
+				<coordinates>-2.9358333333,43.3044444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BOGAS (2151)</name>
+			<Point>
+				<coordinates>-3.8247222222,39.5061111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BOGRO (2159)</name>
+			<Point>
+				<coordinates>0.75,43.3113888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BOLSA (2185)</name>
+			<Point>
+				<coordinates>3.315,43.3341666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BONIL (2199)</name>
+			<Point>
+				<coordinates>-2.5041666667,38.9352777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BOSIO (2211)</name>
+			<Point>
+				<coordinates>-3.5205555556,40.3408333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BOUGA (2219)</name>
+			<Point>
+				<coordinates>3.4094444444,37.1663888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BRA (2269)</name>
+			<Point>
+				<coordinates>-3.5575,40.4691666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BRA02 (2272)</name>
+			<Point>
+				<coordinates>-3.5450642833,40.5573756333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BRA06 (2273)</name>
+			<Point>
+				<coordinates>-3.5636953333,40.7230416333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BRA08 (2274)</name>
+			<Point>
+				<coordinates>-3.5787461,40.9700540333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BRAVO (2280)</name>
+			<Point>
+				<coordinates>-3.7472222222,40.5633333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BRITO (2301)</name>
+			<Point>
+				<coordinates>-2.0780555556,41.0791666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BROTO (2306)</name>
+			<Point>
+				<coordinates>0.1538888889,42.4244444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BRUNO (2317)</name>
+			<Point>
+				<coordinates>0.4833333333,38.6083333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BUDIT (2366)</name>
+			<Point>
+				<coordinates>-2.5044444444,37.9725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BUDOM (2368)</name>
+			<Point>
+				<coordinates>-2.8166666667,40.6563888833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BUGIX (2381)</name>
+			<Point>
+				<coordinates>-3.6352777778,42.3580555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BUR (2437)</name>
+			<Point>
+				<coordinates>-3.6136111111,42.355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BUREX (2442)</name>
+			<Point>
+				<coordinates>-3.9394444444,39.8111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BUROV (2447)</name>
+			<Point>
+				<coordinates>-0.8747222222,41.5972222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BUYAH (2465)</name>
+			<Point>
+				<coordinates>3.1513888889,38.1130555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BZR.A (2483)</name>
+			<Point>
+				<coordinates>3.3372344833,43.33593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BZR.D (2484)</name>
+			<Point>
+				<coordinates>3.3646350333,43.3332444667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CALCE (2495)</name>
+			<Point>
+				<coordinates>-3.3166666667,43.3627777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CAMBY (2501)</name>
+			<Point>
+				<coordinates>1.1822222222,40.8641666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CAMPI (2502)</name>
+			<Point>
+				<coordinates>-4.9977777778,37.9494444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CANAL (2505)</name>
+			<Point>
+				<coordinates>-5.7741666667,38.1463888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CANAR (2506)</name>
+			<Point>
+				<coordinates>-7.4697222222,41.3858333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CARLO (2514)</name>
+			<Point>
+				<coordinates>-2.1691666667,41.0344444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CARME (2515)</name>
+			<Point>
+				<coordinates>4.1977777778,39.7477777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CASIM (2521)</name>
+			<Point>
+				<coordinates>0.1430555556,40.2308333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CASOL (2522)</name>
+			<Point>
+				<coordinates>2.8419444444,39.1936111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CASPE (2523)</name>
+			<Point>
+				<coordinates>0.1994444444,41.2683333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CATON (2526)</name>
+			<Point>
+				<coordinates>-1.2116666667,39.8052777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CAVES (2528)</name>
+			<Point>
+				<coordinates>1.6636111111,41.4833333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CAZAR (2530)</name>
+			<Point>
+				<coordinates>-5.2377777778,38.5030555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CAZON (2531)</name>
+			<Point>
+				<coordinates>-6.1852777778,37.4302777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CB (2532)</name>
+			<Point>
+				<coordinates>-8.4730555556,40.1591666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CCS (2538)</name>
+			<Point>
+				<coordinates>-6.4347222222,39.5244444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CDB (2540)</name>
+			<Point>
+				<coordinates>-4.845,37.8458333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CDP (2552)</name>
+			<Point>
+				<coordinates>3.4341666667,39.6975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CEGAM (2556)</name>
+			<Point>
+				<coordinates>-2.2363888889,42.9836111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CELBA (2559)</name>
+			<Point>
+				<coordinates>2.8841666667,37.115,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CENTA (2561)</name>
+			<Point>
+				<coordinates>-1.4319444444,39.9005555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CHENA (2593)</name>
+			<Point>
+				<coordinates>-5.4813888889,37.3577777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CHOMI (2602)</name>
+			<Point>
+				<coordinates>-2.5980555556,43.2647222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CJN (2615)</name>
+			<Point>
+				<coordinates>-2.5447222222,40.3719444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CJN03 (2616)</name>
+			<Point>
+				<coordinates>-2.2620316167,40.2680362,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CLE (2622)</name>
+			<Point>
+				<coordinates>2.6347222222,41.64,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CLE03 (2623)</name>
+			<Point>
+				<coordinates>2.75779595,41.2166174833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CLS (2634)</name>
+			<Point>
+				<coordinates>-0.9863888889,39.7072222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CMA (2637)</name>
+			<Point>
+				<coordinates>-1.2980555556,40.8672222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CNR (2673)</name>
+			<Point>
+				<coordinates>-3.7358333333,40.6458333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>COMPI (2683)</name>
+			<Point>
+				<coordinates>-0.0077777778,39.3508333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CORDA (2691)</name>
+			<Point>
+				<coordinates>2.2558333333,40.4155555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CORDU (2692)</name>
+			<Point>
+				<coordinates>-4.9247222222,37.9025,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CORIA (2693)</name>
+			<Point>
+				<coordinates>-6.1805555556,37.0275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CORVA (2696)</name>
+			<Point>
+				<coordinates>2.2747222222,41.2097222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRETA (2704)</name>
+			<Point>
+				<coordinates>0.0616666667,40.8722222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CRISA (2706)</name>
+			<Point>
+				<coordinates>-4.5563888889,38.9386111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CS (2718)</name>
+			<Point>
+				<coordinates>2.2075,43.2225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CST (2727)</name>
+			<Point>
+				<coordinates>2.9155555556,39.6413888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CTN (2732)</name>
+			<Point>
+				<coordinates>0.0891666667,40.2186111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CUCAS (2736)</name>
+			<Point>
+				<coordinates>-4.7961111111,41.8077777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CVT (2744)</name>
+			<Point>
+				<coordinates>-3.7733333333,40.3677777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DADIV (2756)</name>
+			<Point>
+				<coordinates>-3.3408333333,40.3930555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DALIN (2770)</name>
+			<Point>
+				<coordinates>3.3577777778,41.7338888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DESAT (2939)</name>
+			<Point>
+				<coordinates>-6.2166666667,41.8302777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DGO (3022)</name>
+			<Point>
+				<coordinates>-2.8805555556,42.4533333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DIGAL (3062)</name>
+			<Point>
+				<coordinates>-7.9897222222,39.7408333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DILUM (3101)</name>
+			<Point>
+				<coordinates>2.1680555556,41.3277777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DIMER (3108)</name>
+			<Point>
+				<coordinates>-1.1686111111,37.3061111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DINCO (3126)</name>
+			<Point>
+				<coordinates>-1.2877777778,37.2563888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DIPES (3149)</name>
+			<Point>
+				<coordinates>3.54,41.0630555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DIPOL (3155)</name>
+			<Point>
+				<coordinates>-4.6763888889,40.4163888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DIRMU (3181)</name>
+			<Point>
+				<coordinates>0.1594444444,41.7855555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DIROP (3182)</name>
+			<Point>
+				<coordinates>-8.0958333333,37.0391666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISET (3190)</name>
+			<Point>
+				<coordinates>0.7658333333,41.2311111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISKO (3198)</name>
+			<Point>
+				<coordinates>-4.2233333333,41.0152777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DISVU (3205)</name>
+			<Point>
+				<coordinates>-1.2633333333,40.7402777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DITOP (3218)</name>
+			<Point>
+				<coordinates>-1.7644444444,43.0155555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DITRE (3219)</name>
+			<Point>
+				<coordinates>-0.5572222222,37.9266666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DIVUT (3241)</name>
+			<Point>
+				<coordinates>-8.3258333333,41.0286111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DML (3266)</name>
+			<Point>
+				<coordinates>-7.7636111111,37.7008333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DMT (3273)</name>
+			<Point>
+				<coordinates>-8.1875,39.0772222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DODOM (3305)</name>
+			<Point>
+				<coordinates>0.9344444444,43.3419444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DOLES (3332)</name>
+			<Point>
+				<coordinates>-4.0691666667,40.4077777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DONOS (3373)</name>
+			<Point>
+				<coordinates>-1.4913888889,43.2838888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DOPEN (3379)</name>
+			<Point>
+				<coordinates>-4.3836111111,39.7552777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DORAR (3393)</name>
+			<Point>
+				<coordinates>-5.9563888889,43.2930555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DORMI (3405)</name>
+			<Point>
+				<coordinates>0.385,40.8711111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DOSEK (3407)</name>
+			<Point>
+				<coordinates>-1.985,37.2461111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DOSOP (3411)</name>
+			<Point>
+				<coordinates>3.1255555556,39.3908333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DOTIS (3421)</name>
+			<Point>
+				<coordinates>2.0247222222,41.2019444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DPR (3429)</name>
+			<Point>
+				<coordinates>-7.5902777778,37.4469444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DRAGO (3433)</name>
+			<Point>
+				<coordinates>1.7655555556,40.0077777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DSL (3445)</name>
+			<Point>
+				<coordinates>-7.9622222222,37.3075,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DUKKE (3461)</name>
+			<Point>
+				<coordinates>-2.9041666667,40.6197222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DUNES (3464)</name>
+			<Point>
+				<coordinates>3.1575,40.8638888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EAG (3480)</name>
+			<Point>
+				<coordinates>-2.3147222222,42.4513888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EBROX (3516)</name>
+			<Point>
+				<coordinates>1.2316666667,40.7086111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EBT (3517)</name>
+			<Point>
+				<coordinates>-0.4719444444,39.6255555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ECIJA (3521)</name>
+			<Point>
+				<coordinates>-5.0655555556,37.5247222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ECV (3522)</name>
+			<Point>
+				<coordinates>-3.7627777778,40.6997222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EDIGO (3539)</name>
+			<Point>
+				<coordinates>-3.4116666667,41.5041666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EDIMU (3542)</name>
+			<Point>
+				<coordinates>-1.8283333333,40.7783333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EDIVA (3546)</name>
+			<Point>
+				<coordinates>-2.3791666667,41.4861111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EDULI (3568)</name>
+			<Point>
+				<coordinates>2.4175,39.4061111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EKRIS (3672)</name>
+			<Point>
+				<coordinates>-5.7813888889,39.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ELDUK (3730)</name>
+			<Point>
+				<coordinates>-7.9405555556,37.8111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ELGIX (3742)</name>
+			<Point>
+				<coordinates>-7.6730555556,41.5211111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ELKEM (3755)</name>
+			<Point>
+				<coordinates>1.7713888889,38.1488888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ELROT (3802)</name>
+			<Point>
+				<coordinates>-2.1583333333,40.485,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ELSOS (3812)</name>
+			<Point>
+				<coordinates>2.8711111167,41.8186111167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ELTEP (3819)</name>
+			<Point>
+				<coordinates>-7.7836111111,42.6163888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ELVAR (3828)</name>
+			<Point>
+				<coordinates>-7.2233333333,39.2194444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ELVIR (3837)</name>
+			<Point>
+				<coordinates>-3.2319444444,40.3730555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ELVIS (3838)</name>
+			<Point>
+				<coordinates>-4.9058333333,38.4958333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EMANU (3845)</name>
+			<Point>
+				<coordinates>-3.7808333333,42.9577777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EMBEX (3848)</name>
+			<Point>
+				<coordinates>-1.2194444444,41.9533333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EON (3965)</name>
+			<Point>
+				<coordinates>-5.6461111111,42.5938888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EPAMA (3970)</name>
+			<Point>
+				<coordinates>1.3802777778,39.6030555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EREMA (4027)</name>
+			<Point>
+				<coordinates>-4.1397222222,41.0816666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ERMOX (4085)</name>
+			<Point>
+				<coordinates>-3.6541666667,38.8186111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ERTIS (4126)</name>
+			<Point>
+				<coordinates>-7.6147222222,37.4166666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESILA (4162)</name>
+			<Point>
+				<coordinates>-2.7741666667,37.0513888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESPIN (4187)</name>
+			<Point>
+				<coordinates>-2.5,40.8494444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ESPOR (4188)</name>
+			<Point>
+				<coordinates>2.0955555556,40.2830555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ETAKA (4204)</name>
+			<Point>
+				<coordinates>-7.73,41.7891666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ETANA (4208)</name>
+			<Point>
+				<coordinates>-3.5816666667,39.5713888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ETURA (4279)</name>
+			<Point>
+				<coordinates>-2.1886111111,38.2080555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EVADO (4285)</name>
+			<Point>
+				<coordinates>3.4530555556,43.1925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EVR.D (4348)</name>
+			<Point>
+				<coordinates>-7.9338441833,38.5204438333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EVURA (4368)</name>
+			<Point>
+				<coordinates>-7.9186111111,38.665,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EXONA (4381)</name>
+			<Point>
+				<coordinates>-8.0166666667,38.9044444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FANET (4398)</name>
+			<Point>
+				<coordinates>-5.6441666667,40.3827777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FAR (4399)</name>
+			<Point>
+				<coordinates>-7.9258333333,37.0086111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FAR.A (4400)</name>
+			<Point>
+				<coordinates>-7.9624933667,37.01446185,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FAR.D (4401)</name>
+			<Point>
+				<coordinates>-7.98908295,37.0149823167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FBP.A (4413)</name>
+			<Point>
+				<coordinates>-0.4200931333,43.3790863167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FBP.D (4414)</name>
+			<Point>
+				<coordinates>-0.4235881,43.3883431,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FEBRI (4420)</name>
+			<Point>
+				<coordinates>-2.2738888889,43.3097222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FERD0 (4427)</name>
+			<Point>
+				<coordinates>-2.9450688,40.831425,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FERMI (4430)</name>
+			<Point>
+				<coordinates>-1.77,42.5425,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FERNA (4431)</name>
+			<Point>
+				<coordinates>-4.6333333333,37.7111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FESTA (4435)</name>
+			<Point>
+				<coordinates>-1.1044444444,41.4422222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FEVIK (4436)</name>
+			<Point>
+				<coordinates>3.1961111111,41.6797222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FINAM (4451)</name>
+			<Point>
+				<coordinates>-7.3886111111,42.4222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FORNO (4533)</name>
+			<Point>
+				<coordinates>-7.4813888889,42.4680555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>FTM (4573)</name>
+			<Point>
+				<coordinates>-8.4927777778,39.6658333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GADOR (4598)</name>
+			<Point>
+				<coordinates>-2.6091666667,36.9780555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GAGOS (4600)</name>
+			<Point>
+				<coordinates>-4.5338888889,39.8769444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GAIOS (4603)</name>
+			<Point>
+				<coordinates>-8.5430555556,38.2755555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GALAT (4606)</name>
+			<Point>
+				<coordinates>1.9408333333,40.1544444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GALDO (4611)</name>
+			<Point>
+				<coordinates>1.7458333333,43.2594444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GAPLU (4646)</name>
+			<Point>
+				<coordinates>2.5486111111,41.8833333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GARBI (4656)</name>
+			<Point>
+				<coordinates>2.2866666667,40.8027777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GARVU (4672)</name>
+			<Point>
+				<coordinates>-2.0777777778,42.1711111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GASMO (4677)</name>
+			<Point>
+				<coordinates>-3.0488888889,41.7294444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GATAS (4682)</name>
+			<Point>
+				<coordinates>-1.8886111111,36.6933333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GAUDE (4692)</name>
+			<Point>
+				<coordinates>0.6366666667,43.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GAVMA (4698)</name>
+			<Point>
+				<coordinates>1.9872222222,41.2658333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GAVRU (4701)</name>
+			<Point>
+				<coordinates>-2.0611479333,42.1713654167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GDA (4714)</name>
+			<Point>
+				<coordinates>-3.9908333333,37.1830555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GDA.A (4715)</name>
+			<Point>
+				<coordinates>-3.8139697,37.2048163,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GDA.D (4716)</name>
+			<Point>
+				<coordinates>-3.7917154,37.1905862167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GE (4723)</name>
+			<Point>
+				<coordinates>-3.8441666667,40.1997222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GEANT (4725)</name>
+			<Point>
+				<coordinates>2.2163888889,42.4333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GEBTI (4730)</name>
+			<Point>
+				<coordinates>-7.6858333333,36.985,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GEMAS (4748)</name>
+			<Point>
+				<coordinates>0.7302777778,41.845,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GENIL (4761)</name>
+			<Point>
+				<coordinates>-5.3,37.5791666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GENIO (4763)</name>
+			<Point>
+				<coordinates>3.1477777778,38.2936111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GENRO (4766)</name>
+			<Point>
+				<coordinates>-7.6147222222,37.1930555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GERVU (4783)</name>
+			<Point>
+				<coordinates>0.4833333333,38.82,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GIMAL (4903)</name>
+			<Point>
+				<coordinates>-8.0058333333,36.7644444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GIR (4954)</name>
+			<Point>
+				<coordinates>2.7716666667,41.9313888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GIR.A (4955)</name>
+			<Point>
+				<coordinates>2.7603478667,41.9022670667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GIR.D (4956)</name>
+			<Point>
+				<coordinates>2.7615182167,41.8914040333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GIROM (4979)</name>
+			<Point>
+				<coordinates>0.9972222222,42.7747222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GOBIX (5101)</name>
+			<Point>
+				<coordinates>-7.8511111167,37.0013888833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GODIV (5119)</name>
+			<Point>
+				<coordinates>-6.3236111111,41.7213888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GODOX (5129)</name>
+			<Point>
+				<coordinates>1.4108333333,39.3725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GODPI (5130)</name>
+			<Point>
+				<coordinates>-0.5955555556,41.7252777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GOMSO (5204)</name>
+			<Point>
+				<coordinates>-1.5,42.995,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GOTOR (5296)</name>
+			<Point>
+				<coordinates>-3.7244444444,40.1108333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GOTOX (5297)</name>
+			<Point>
+				<coordinates>-5.8786111111,42.8630555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GOXIP (5320)</name>
+			<Point>
+				<coordinates>-4.4644444444,39.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GRAUS (5335)</name>
+			<Point>
+				<coordinates>0.3763888889,41.9791666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GRN01 (5346)</name>
+			<Point>
+				<coordinates>2.8063692167,42.02418775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GUDAV (5385)</name>
+			<Point>
+				<coordinates>-8.5833333333,38.6505555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HAMRA (5466)</name>
+			<Point>
+				<coordinates>-0.0236111111,36.8711111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HERMI (5514)</name>
+			<Point>
+				<coordinates>-2.5333333333,41.4736111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HIG (5521)</name>
+			<Point>
+				<coordinates>-1.7958333333,43.3863888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HIJ (5523)</name>
+			<Point>
+				<coordinates>-5.0997222222,38.5080555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HUE (5574)</name>
+			<Point>
+				<coordinates>-0.3188888889,42.0733333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IBA (5590)</name>
+			<Point>
+				<coordinates>1.3658333333,38.8683333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IBERO (5603)</name>
+			<Point>
+				<coordinates>-7.9197222222,41.3455555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IBI (5611)</name>
+			<Point>
+				<coordinates>1.3625,38.8672222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IBRAP (5639)</name>
+			<Point>
+				<coordinates>2.0586111111,42.3616666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IBZ (5660)</name>
+			<Point>
+				<coordinates>1.385,38.8763888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IDBID (5673)</name>
+			<Point>
+				<coordinates>-8.0166666667,39.2783333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IDLIP (5689)</name>
+			<Point>
+				<coordinates>-7.9752777778,37.0136111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IML (5742)</name>
+			<Point>
+				<coordinates>-3.5583333333,40.5252777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INBOM (5765)</name>
+			<Point>
+				<coordinates>-8.3019444444,40.0019444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INDEG (5774)</name>
+			<Point>
+				<coordinates>-3.7922222222,40.8536111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INDEL (5775)</name>
+			<Point>
+				<coordinates>-2.705,42.4558333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INDIA (5777)</name>
+			<Point>
+				<coordinates>-0.9147222222,41.3447222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INKIT (5810)</name>
+			<Point>
+				<coordinates>-7.8908333333,41.1802777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INSID (5861)</name>
+			<Point>
+				<coordinates>-7.0941666667,42.2755555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INTAX (5872)</name>
+			<Point>
+				<coordinates>-2.9338888889,39.59,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INVAB (5886)</name>
+			<Point>
+				<coordinates>-8.3841666667,37.0736111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IPN (5920)</name>
+			<Point>
+				<coordinates>-1.6505555556,42.7777777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IXIDA (6035)</name>
+			<Point>
+				<coordinates>-8.0166666667,39.655,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IZA (6061)</name>
+			<Point>
+				<coordinates>1.4705555556,38.9155555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IZA.A (6062)</name>
+			<Point>
+				<coordinates>1.36930455,38.8772804833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IZA.D (6063)</name>
+			<Point>
+				<coordinates>1.37242975,38.8731546833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOA (6084)</name>
+			<Point>
+				<coordinates>2.7466666667,39.5647222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JOCOL (6085)</name>
+			<Point>
+				<coordinates>-5.3075,42.5933333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JRZ (6088)</name>
+			<Point>
+				<coordinates>-6.0266666667,36.8152777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JRZ.A (6089)</name>
+			<Point>
+				<coordinates>-6.0676304667,36.75579,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JRZ.D (6090)</name>
+			<Point>
+				<coordinates>-6.0402376,36.7725492,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KABRE (6110)</name>
+			<Point>
+				<coordinates>2.9566666667,39.1436111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KALAB (6121)</name>
+			<Point>
+				<coordinates>-2.4486111111,37.0197222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KALMA (6125)</name>
+			<Point>
+				<coordinates>-4.2994444444,40.4113888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KAMPO (6131)</name>
+			<Point>
+				<coordinates>-4.0552777778,39.7333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KANIG (6136)</name>
+			<Point>
+				<coordinates>2.9830555556,42.4802777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KARDO (6143)</name>
+			<Point>
+				<coordinates>1.6108333333,41.8183333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KARES (6146)</name>
+			<Point>
+				<coordinates>1.1522222222,41.3311111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KARMA (6151)</name>
+			<Point>
+				<coordinates>-2.4436111111,43.1283333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KASTA (6168)</name>
+			<Point>
+				<coordinates>-5.0344444444,40.1922222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KATAL (6172)</name>
+			<Point>
+				<coordinates>-0.6627777778,38.5938888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KELAM (6226)</name>
+			<Point>
+				<coordinates>2.8686111111,43.1719444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KEMAO (6239)</name>
+			<Point>
+				<coordinates>-6.555,36.665,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KENAS (6252)</name>
+			<Point>
+				<coordinates>3.1408333333,40.5,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KERIP (6283)</name>
+			<Point>
+				<coordinates>0.8558333333,40.9413888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KILVA (6344)</name>
+			<Point>
+				<coordinates>-2.915,39.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KIRLA (6354)</name>
+			<Point>
+				<coordinates>1.5,37.0230555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KONKE (6508)</name>
+			<Point>
+				<coordinates>-1.7769444444,41.0333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KONON (6511)</name>
+			<Point>
+				<coordinates>2.4258333333,43.2680555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KOPOM (6527)</name>
+			<Point>
+				<coordinates>-4.8977777778,39.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KOSEL (6563)</name>
+			<Point>
+				<coordinates>-2.7936111111,37.7547222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KOSIT (6567)</name>
+			<Point>
+				<coordinates>2.0602777778,41.9352777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KOVAM (6598)</name>
+			<Point>
+				<coordinates>-0.7911111111,39.3919444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KUDEX (6684)</name>
+			<Point>
+				<coordinates>-2.1930555556,42.7344444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KUGAX (6693)</name>
+			<Point>
+				<coordinates>1.4766666667,41.0958333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KUKAL (6699)</name>
+			<Point>
+				<coordinates>-4.4808333333,37.8686111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KUNAX (6735)</name>
+			<Point>
+				<coordinates>-2.94,40.8313888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KUNEN (6737)</name>
+			<Point>
+				<coordinates>-2.8408333333,36.8316666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KUREG (6758)</name>
+			<Point>
+				<coordinates>2.7188888889,40.8994444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KURUK (6771)</name>
+			<Point>
+				<coordinates>-3.9333333333,43.2341666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KUVAN (6800)</name>
+			<Point>
+				<coordinates>-6.3169444444,43.1111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LABOG (6853)</name>
+			<Point>
+				<coordinates>-0.0147222222,43.0769444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LABRO (6855)</name>
+			<Point>
+				<coordinates>1.1238888889,37.2747222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LALPI (6910)</name>
+			<Point>
+				<coordinates>-3.7036111111,40.9588888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LALTA (6912)</name>
+			<Point>
+				<coordinates>0.1786111111,43.1836111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LAMAR (6920)</name>
+			<Point>
+				<coordinates>-6.0752777778,37.445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LAMPA (6937)</name>
+			<Point>
+				<coordinates>1.9241666667,38.8016666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LANCE (6952)</name>
+			<Point>
+				<coordinates>-4.1336111111,37.9330555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LANET (6956)</name>
+			<Point>
+				<coordinates>3.1072222222,42.7027777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LANTE (6967)</name>
+			<Point>
+				<coordinates>-5.1969444444,37.3977777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LAPRO (6996)</name>
+			<Point>
+				<coordinates>2.8575,43.4166666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LARDA (7012)</name>
+			<Point>
+				<coordinates>-1.3619444444,42.1316666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LARPA (7029)</name>
+			<Point>
+				<coordinates>2.3486111111,40.6266666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LARVO (7039)</name>
+			<Point>
+				<coordinates>-6.1644444444,42.7672222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LASDI (7045)</name>
+			<Point>
+				<coordinates>1.0580555556,38.9375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LASIB (7054)</name>
+			<Point>
+				<coordinates>-7.2227777778,38.0375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LASPO (7070)</name>
+			<Point>
+				<coordinates>-0.5444444444,39.2825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LATEK (7084)</name>
+			<Point>
+				<coordinates>-0.6569444444,42.875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LATRO (7098)</name>
+			<Point>
+				<coordinates>1.6183333333,41.7716666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LAVAL (7105)</name>
+			<Point>
+				<coordinates>3.57,40.3169444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LCG.A (7141)</name>
+			<Point>
+				<coordinates>-8.33773865,43.3429329667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LCG.D (7142)</name>
+			<Point>
+				<coordinates>-8.3628852167,43.2957495833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LCZ (7146)</name>
+			<Point>
+				<coordinates>-0.9391666667,37.6763888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LEKTO (7192)</name>
+			<Point>
+				<coordinates>-2.4141666667,43.0658333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LEPES (7227)</name>
+			<Point>
+				<coordinates>-7.1919444444,37.1652777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LES.A (7243)</name>
+			<Point>
+				<coordinates>-1.80621235,43.3549933,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LES.D (7244)</name>
+			<Point>
+				<coordinates>-1.9193706167,43.2893254,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LESBA (7246)</name>
+			<Point>
+				<coordinates>2.6627777778,41.255,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LEV.A (7271)</name>
+			<Point>
+				<coordinates>-2.73109995,42.87308765,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LEV.D (7272)</name>
+			<Point>
+				<coordinates>-2.7471159,42.877283,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LEX.A (7278)</name>
+			<Point>
+				<coordinates>-3.75079455,43.4121522,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LEX.D (7279)</name>
+			<Point>
+				<coordinates>-3.7462430167,43.4340862833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LIMON (7362)</name>
+			<Point>
+				<coordinates>3.8994444444,37.0711111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LIPOR (7389)</name>
+			<Point>
+				<coordinates>-2.8480555556,40.4911111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LISAS (7405)</name>
+			<Point>
+				<coordinates>2.4963888889,40.2022222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LOBAR (7484)</name>
+			<Point>
+				<coordinates>0.3183333333,41.7480555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LOGRO (7510)</name>
+			<Point>
+				<coordinates>-3.8994444444,39.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LOJAS (7513)</name>
+			<Point>
+				<coordinates>-4.1538888889,37.2072222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LOMDA (7530)</name>
+			<Point>
+				<coordinates>-7.2961111111,42.8527777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LOMRA (7536)</name>
+			<Point>
+				<coordinates>1.8830555556,43.3441666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LONGA (7543)</name>
+			<Point>
+				<coordinates>-4.8772222222,40.4383333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LOPNA (7558)</name>
+			<Point>
+				<coordinates>-2.9608333333,42.6386111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LORES (7571)</name>
+			<Point>
+				<coordinates>2.7025,40.5,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LOTOS (7587)</name>
+			<Point>
+				<coordinates>1.0030555556,40.5497222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LPA (7598)</name>
+			<Point>
+				<coordinates>-2.3269444444,42.4605555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LRA (7607)</name>
+			<Point>
+				<coordinates>-8.3069444444,43.3961111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LRD (7610)</name>
+			<Point>
+				<coordinates>0.6480555556,41.5527777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LUCAR (7638)</name>
+			<Point>
+				<coordinates>-6.3891666667,36.7611111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LUKEP (7662)</name>
+			<Point>
+				<coordinates>-2.7697222222,43.2494444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LUKEV (7663)</name>
+			<Point>
+				<coordinates>2.2686111111,41.7661111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LULAK (7680)</name>
+			<Point>
+				<coordinates>2.8216666667,39.5233333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LUNIK (7728)</name>
+			<Point>
+				<coordinates>3.3925,40.4397222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LUPES (7747)</name>
+			<Point>
+				<coordinates>-4.6111111111,40.2333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LURAN (7765)</name>
+			<Point>
+				<coordinates>-0.9791666667,42.9727777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LUSEM (7785)</name>
+			<Point>
+				<coordinates>-1.7805555556,43.3747222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LUXUR (7844)</name>
+			<Point>
+				<coordinates>3.4219444444,38.2133333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MAA (7865)</name>
+			<Point>
+				<coordinates>-3.5547222222,40.4658333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MABIP (7871)</name>
+			<Point>
+				<coordinates>1.5216666667,43.2216666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MABUX (7880)</name>
+			<Point>
+				<coordinates>-1.1497222222,39.5491666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MAD.A (7883)</name>
+			<Point>
+				<coordinates>-3.5532797167,40.4675938,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MAD.D (7884)</name>
+			<Point>
+				<coordinates>-3.5614889667,40.4791539333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MAGAL (7906)</name>
+			<Point>
+				<coordinates>-0.2308333333,38.0733333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MAGIN (7917)</name>
+			<Point>
+				<coordinates>-3.5647222222,40.7669444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MAGUM (7923)</name>
+			<Point>
+				<coordinates>-8.3925,39.1675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MALIS (7956)</name>
+			<Point>
+				<coordinates>-7.6047222222,41.8555555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MALOB (7960)</name>
+			<Point>
+				<coordinates>-1.9386111111,42.845,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MAMEB (7973)</name>
+			<Point>
+				<coordinates>3.9919444444,39.7627777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MAMES (7974)</name>
+			<Point>
+				<coordinates>4.0002777778,42.2091666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MAMIS (7977)</name>
+			<Point>
+				<coordinates>-2.895,37.9547222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MAMOM (7979)</name>
+			<Point>
+				<coordinates>4.0908333333,39.2175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MAMUK (7983)</name>
+			<Point>
+				<coordinates>2.0722222222,41.8366666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MANAS (7990)</name>
+			<Point>
+				<coordinates>-5.93,37.3169444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MANCO (7993)</name>
+			<Point>
+				<coordinates>-3.5769444444,40.8863888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MANDY (7994)</name>
+			<Point>
+				<coordinates>-1.0405555556,39.9116666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MAPOR (8023)</name>
+			<Point>
+				<coordinates>-8.0583333333,41.6141666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MAR (8027)</name>
+			<Point>
+				<coordinates>-4.94,37.0552777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MARIM (8042)</name>
+			<Point>
+				<coordinates>-7.8411111111,37.4166666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MARIN (8043)</name>
+			<Point>
+				<coordinates>-7.8416144833,37.4215877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MARIO (8044)</name>
+			<Point>
+				<coordinates>-0.2441666667,42.2102777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MAROT (8055)</name>
+			<Point>
+				<coordinates>3.8602777778,41.6055555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MARTA (8059)</name>
+			<Point>
+				<coordinates>1.28,40.3547222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MASIP (8077)</name>
+			<Point>
+				<coordinates>-6.6555555556,43.3922222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MATEX (8094)</name>
+			<Point>
+				<coordinates>0.2655555556,40.5566666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MBB (8142)</name>
+			<Point>
+				<coordinates>-3.5372222222,40.4761111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MEBUT (8169)</name>
+			<Point>
+				<coordinates>2.2280555556,38.7511111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MECKI (8170)</name>
+			<Point>
+				<coordinates>0.6786111111,41.6619444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MELON (8199)</name>
+			<Point>
+				<coordinates>-5.3186111111,39.7666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MGA (8221)</name>
+			<Point>
+				<coordinates>-4.3694444444,36.8141666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MHN (8226)</name>
+			<Point>
+				<coordinates>4.2163888889,39.8636111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MHN.A (8227)</name>
+			<Point>
+				<coordinates>4.2260543833,39.852633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MHN.D (8228)</name>
+			<Point>
+				<coordinates>4.2272652167,39.8618890833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MINGU (8274)</name>
+			<Point>
+				<coordinates>-1.4808333333,39.8261111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MINTA (8278)</name>
+			<Point>
+				<coordinates>-7.3833333333,37.1288888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MINVI (8281)</name>
+			<Point>
+				<coordinates>-5.1480555556,41.1261111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MIRPO (8294)</name>
+			<Point>
+				<coordinates>-2.1552777778,42.6311111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MISTE (8308)</name>
+			<Point>
+				<coordinates>-8.0852777778,43.3552777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MITOS (8318)</name>
+			<Point>
+				<coordinates>-0.0136111111,38.4494444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MITUM (8323)</name>
+			<Point>
+				<coordinates>-3.2477777778,40.6455555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MJV (8329)</name>
+			<Point>
+				<coordinates>2.7583333333,39.4352777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MLA (8336)</name>
+			<Point>
+				<coordinates>0.1652777778,41.1297222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MLG (8341)</name>
+			<Point>
+				<coordinates>-4.5066666667,36.6788888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MLG.A (8342)</name>
+			<Point>
+				<coordinates>-4.51557805,36.6887892333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MLG.D (8343)</name>
+			<Point>
+				<coordinates>-4.4997159333,36.67569685,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MOGIL (8415)</name>
+			<Point>
+				<coordinates>3.2019444444,38.1319444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MOLAR (8453)</name>
+			<Point>
+				<coordinates>1.5988888889,38.5502777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MOLIN (8460)</name>
+			<Point>
+				<coordinates>-4.6858333333,39.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MOMAS (8471)</name>
+			<Point>
+				<coordinates>-8.0166666667,39.3191666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MOMAT (8472)</name>
+			<Point>
+				<coordinates>0.9697222222,41.0816666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MONIX (8493)</name>
+			<Point>
+				<coordinates>1.8969444444,43.3363888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MONTE (8497)</name>
+			<Point>
+				<coordinates>-5.4888888889,37.0583333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MONTO (8499)</name>
+			<Point>
+				<coordinates>-4.4969444444,39.2216666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MOPAS (8508)</name>
+			<Point>
+				<coordinates>1.0344444444,42.4352777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MOPIR (8513)</name>
+			<Point>
+				<coordinates>-0.8377777778,39.4125,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MORAL (8521)</name>
+			<Point>
+				<coordinates>-3.5422222222,39.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MORAS (8522)</name>
+			<Point>
+				<coordinates>-8.0186111111,39.1638888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MORIL (8528)</name>
+			<Point>
+				<coordinates>2.3502777778,43.0658333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MOSCO (8544)</name>
+			<Point>
+				<coordinates>-3.8413888889,43.2036111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MOSEN (8545)</name>
+			<Point>
+				<coordinates>-6.5608333333,41.7866666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MOSUK (8556)</name>
+			<Point>
+				<coordinates>-3.625,37.1158333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MOTIL (8565)</name>
+			<Point>
+				<coordinates>-1.7452777778,39.5388888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MRN (8595)</name>
+			<Point>
+				<coordinates>-5.6188888889,37.175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MTN (8612)</name>
+			<Point>
+				<coordinates>-5.33,40.9888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MULAT (8618)</name>
+			<Point>
+				<coordinates>-0.18,39.4,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MUROS (8631)</name>
+			<Point>
+				<coordinates>3.08,39.7188888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NAKOP (8669)</name>
+			<Point>
+				<coordinates>3.2391666667,39.6225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NALES (8675)</name>
+			<Point>
+				<coordinates>-5.2916666667,36.8394444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NANDO (8695)</name>
+			<Point>
+				<coordinates>-2.1744444444,39.9888888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NAPES (8710)</name>
+			<Point>
+				<coordinates>-7.0302777778,37.1961111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NARBO (8728)</name>
+			<Point>
+				<coordinates>-8.2283333333,42.1397222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NARGO (8730)</name>
+			<Point>
+				<coordinates>-0.9986111111,38.7383333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NASGO (8757)</name>
+			<Point>
+				<coordinates>2.8327777778,42.0916666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NASOS (8766)</name>
+			<Point>
+				<coordinates>-3.0277777778,39.3991666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NATPA (8788)</name>
+			<Point>
+				<coordinates>-4.5863888889,39.9188888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NATUL (8791)</name>
+			<Point>
+				<coordinates>-3.1819444444,41.1433333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NAVAR (8796)</name>
+			<Point>
+				<coordinates>0.5216666667,40.3766666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NAVUT (8817)</name>
+			<Point>
+				<coordinates>-5.6936111111,36.7044444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NEA (8833)</name>
+			<Point>
+				<coordinates>-4.1091666667,42.0275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NEDUS (8860)</name>
+			<Point>
+				<coordinates>-4.8497222222,42.6533333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NELAS (8895)</name>
+			<Point>
+				<coordinates>3.5208333333,40.0941666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NEMUM (8924)</name>
+			<Point>
+				<coordinates>3.3930555556,42.0091666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NENDA (8930)</name>
+			<Point>
+				<coordinates>2.7513888889,41.6844444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NENOS (8936)</name>
+			<Point>
+				<coordinates>-1.3330555556,38.8616666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NEPAL (8941)</name>
+			<Point>
+				<coordinates>1.9247222222,40.6927777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NEPUR (8957)</name>
+			<Point>
+				<coordinates>-4.8380555556,36.9294444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NESDA (8982)</name>
+			<Point>
+				<coordinates>-3.7416666667,36.8213888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NETOS (9008)</name>
+			<Point>
+				<coordinates>-6.2777777778,41.3075,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NEVIC (9023)</name>
+			<Point>
+				<coordinates>3.4322222222,39.3316666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NEXAS (9049)</name>
+			<Point>
+				<coordinates>-0.7927777778,40.8711111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NIBEN (9068)</name>
+			<Point>
+				<coordinates>-0.2616666667,40.0561111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NIDON (9090)</name>
+			<Point>
+				<coordinates>-2.0933333333,37.0836111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NIKAL (9111)</name>
+			<Point>
+				<coordinates>-5.7480555556,37.6441666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NILDU (9129)</name>
+			<Point>
+				<coordinates>3.8286111111,42.2602777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NIMAS (9142)</name>
+			<Point>
+				<coordinates>-6.3902777778,38.9183333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NINES (9158)</name>
+			<Point>
+				<coordinates>2.1613888889,38.6636111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NINOS (9162)</name>
+			<Point>
+				<coordinates>-6.7772222222,41.1297222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NINOT (9163)</name>
+			<Point>
+				<coordinates>0.4833333333,39.2088888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NIRAK (9179)</name>
+			<Point>
+				<coordinates>-7.4286111111,37.2458333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NITBA (9216)</name>
+			<Point>
+				<coordinates>1.9855555556,41.0716666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NIVET (9236)</name>
+			<Point>
+				<coordinates>4.0427777778,43.1983333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NOLSA (9295)</name>
+			<Point>
+				<coordinates>-1.9075,42.4275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NOSKO (9343)</name>
+			<Point>
+				<coordinates>-2.8166666667,40.6563888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NOVAS (9367)</name>
+			<Point>
+				<coordinates>1.7102777778,41.1822222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NUBLO (9398)</name>
+			<Point>
+				<coordinates>-4.9888888889,42.6661111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NUNKA (9423)</name>
+			<Point>
+				<coordinates>-1.8086111111,37.0130555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NURVI (9440)</name>
+			<Point>
+				<coordinates>-3.3169444444,43.2925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NUSGO (9442)</name>
+			<Point>
+				<coordinates>-2.1583333333,40.4055555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NUSMA (9444)</name>
+			<Point>
+				<coordinates>-2.6125,36.8327777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NVS (9457)</name>
+			<Point>
+				<coordinates>-4.2494444444,40.3686111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NVS07 (9458)</name>
+			<Point>
+				<coordinates>-4.2735200167,41.1388840833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OBIBO (9502)</name>
+			<Point>
+				<coordinates>-2.7955555556,39.6713888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OBIKI (9507)</name>
+			<Point>
+				<coordinates>-2.8597222222,41.2272222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OBUTO (9541)</name>
+			<Point>
+				<coordinates>0.0208333333,43.1591666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ODAPA (9554)</name>
+			<Point>
+				<coordinates>-4.1758333333,41.4397222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ODEMI (9569)</name>
+			<Point>
+				<coordinates>-8.3838888889,37.4975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ODPAK (9602)</name>
+			<Point>
+				<coordinates>-7.9269444444,38.1283333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ODSEN (9623)</name>
+			<Point>
+				<coordinates>0.4833333333,39.0641666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OGERO (9647)</name>
+			<Point>
+				<coordinates>-6.4005555556,39.8016666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OGRIL (9666)</name>
+			<Point>
+				<coordinates>1.235,43.2922222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OKABI (9682)</name>
+			<Point>
+				<coordinates>1.4836111111,42.6161111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OKETA (9704)</name>
+			<Point>
+				<coordinates>2.9961111111,41.7236111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OKITI (9716)</name>
+			<Point>
+				<coordinates>1.4441666667,39.1163888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OLGAR (9806)</name>
+			<Point>
+				<coordinates>-7.9363888889,39.1833333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OLIVO (9824)</name>
+			<Point>
+				<coordinates>-5.9758333333,37.2511111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OLMIR (9836)</name>
+			<Point>
+				<coordinates>2.5180555556,38.5311111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OLOPA (9856)</name>
+			<Point>
+				<coordinates>-5.4625,37.5338888833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OLOTI (9859)</name>
+			<Point>
+				<coordinates>2.4666666667,42.2083333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OLPOS (9864)</name>
+			<Point>
+				<coordinates>-1.3422222222,38.7269444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OLUTO (9872)</name>
+			<Point>
+				<coordinates>2.6125,39.6641666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OMESI (9889)</name>
+			<Point>
+				<coordinates>-5.7722222222,42.2763888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OMIGO (9894)</name>
+			<Point>
+				<coordinates>-4.9072222222,37.2202777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OMILU (9896)</name>
+			<Point>
+				<coordinates>-3.7805555556,42.7372222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ONDAL (9905)</name>
+			<Point>
+				<coordinates>-2.2730555556,37.0583333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ONUBA (9911)</name>
+			<Point>
+				<coordinates>-6.76,37.2466666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OPERA (9919)</name>
+			<Point>
+				<coordinates>-0.7788888889,39.6227777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ORBIL (9928)</name>
+			<Point>
+				<coordinates>2.4933333333,43.19,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ORBIS (9929)</name>
+			<Point>
+				<coordinates>-4.1952777778,41.2658333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ORIPE (9938)</name>
+			<Point>
+				<coordinates>-5.4344444444,36.9919444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ORTEZ (9968)</name>
+			<Point>
+				<coordinates>-0.7166666667,43.3655555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ORVUS (9994)</name>
+			<Point>
+				<coordinates>0.4313888889,39.3316666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSCAR (10013)</name>
+			<Point>
+				<coordinates>-3.0675,40.5636111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSGAL (10026)</name>
+			<Point>
+				<coordinates>2.8997222222,39.0247222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSPES (10096)</name>
+			<Point>
+				<coordinates>0.3469444444,40.3725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSTIX (10117)</name>
+			<Point>
+				<coordinates>-3.1,41.5044444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSTUR (10123)</name>
+			<Point>
+				<coordinates>2.8938888889,40.7808333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSVAK (10125)</name>
+			<Point>
+				<coordinates>0.5111111111,41.4875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OSVAN (10127)</name>
+			<Point>
+				<coordinates>-0.5633333333,38.1166666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OXACA (10206)</name>
+			<Point>
+				<coordinates>-6.0,37.95,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OXERA (10208)</name>
+			<Point>
+				<coordinates>-2.7530555556,43.2361111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PA (10223)</name>
+			<Point>
+				<coordinates>2.8211111111,39.5994444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PAKKI (10244)</name>
+			<Point>
+				<coordinates>-2.5077777778,43.1894444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PAL.A (10247)</name>
+			<Point>
+				<coordinates>2.7460279167,39.5640048,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PAL.D (10248)</name>
+			<Point>
+				<coordinates>2.7464473667,39.5517332667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PALIO (10250)</name>
+			<Point>
+				<coordinates>-3.0483333333,40.2622222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PALOS (10252)</name>
+			<Point>
+				<coordinates>-0.5366666667,37.5747222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PAP (10260)</name>
+			<Point>
+				<coordinates>-1.6608333333,42.6883333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PAPOS (10262)</name>
+			<Point>
+				<coordinates>1.4491666667,40.6211111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PARDO (10266)</name>
+			<Point>
+				<coordinates>-6.3058333333,37.0872222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PARKA (10268)</name>
+			<Point>
+				<coordinates>-5.15,39.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PAULI (10279)</name>
+			<Point>
+				<coordinates>-4.6608333333,40.4147222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PDT (10287)</name>
+			<Point>
+				<coordinates>-3.3480555556,40.2527777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PECES (10289)</name>
+			<Point>
+				<coordinates>3.9497222222,38.4802777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PEDRO (10293)</name>
+			<Point>
+				<coordinates>-2.1580555556,38.8477777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PEKIS (10299)</name>
+			<Point>
+				<coordinates>1.1252777778,41.6488888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PEKOR (10304)</name>
+			<Point>
+				<coordinates>3.3747222167,39.6191666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PELAT (10314)</name>
+			<Point>
+				<coordinates>0.4425,41.0216666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PEPAS (10377)</name>
+			<Point>
+				<coordinates>-3.5708333333,37.1597222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PERAL (10396)</name>
+			<Point>
+				<coordinates>2.0386111111,41.1883333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PERDU (10402)</name>
+			<Point>
+				<coordinates>0.1511111111,42.7322222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PERUK (10420)</name>
+			<Point>
+				<coordinates>1.8330555556,41.1991666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PESAS (10428)</name>
+			<Point>
+				<coordinates>-7.3833333333,37.0366666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PESUL (10441)</name>
+			<Point>
+				<coordinates>-8.115,40.8819444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PETAM (10446)</name>
+			<Point>
+				<coordinates>2.7525,39.6852777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PEXOT (10495)</name>
+			<Point>
+				<coordinates>1.4519444444,40.8608333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIMAD (10578)</name>
+			<Point>
+				<coordinates>2.5,38.1666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIMUR (10591)</name>
+			<Point>
+				<coordinates>-6.5183333333,37.2913888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PINAR (10594)</name>
+			<Point>
+				<coordinates>-2.5991666667,40.9802777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PINEK (10597)</name>
+			<Point>
+				<coordinates>-8.5977777778,41.8511111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PINOX (10602)</name>
+			<Point>
+				<coordinates>-7.1091666667,40.2905555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PINTO (10603)</name>
+			<Point>
+				<coordinates>2.3241666667,39.8283333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPAS (10609)</name>
+			<Point>
+				<coordinates>-8.1913888833,41.71694445,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPOR (10617)</name>
+			<Point>
+				<coordinates>-1.1080555556,43.0091666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIREN (10626)</name>
+			<Point>
+				<coordinates>-7.3833333333,36.8333333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PISAR (10639)</name>
+			<Point>
+				<coordinates>-4.3136111111,38.9897222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PISUS (10646)</name>
+			<Point>
+				<coordinates>-1.455,41.1936111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PITUL (10656)</name>
+			<Point>
+				<coordinates>-2.1933333333,42.7008333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PITUX (10657)</name>
+			<Point>
+				<coordinates>2.6205555556,39.3686111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIVON (10668)</name>
+			<Point>
+				<coordinates>-8.5525,42.5038888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIVUS (10673)</name>
+			<Point>
+				<coordinates>3.9338888889,41.9238888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PL (10686)</name>
+			<Point>
+				<coordinates>2.9244444444,42.6791666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PLANA (10688)</name>
+			<Point>
+				<coordinates>-0.3263888889,39.8905555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PMR (10696)</name>
+			<Point>
+				<coordinates>1.5961111111,43.0927777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PMR.A (10697)</name>
+			<Point>
+				<coordinates>1.6342473,43.0939158333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PMR.D (10698)</name>
+			<Point>
+				<coordinates>1.6978912,43.0931356833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PND (10700)</name>
+			<Point>
+				<coordinates>-0.3463888889,39.4375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PO (10704)</name>
+			<Point>
+				<coordinates>-0.1661111111,43.3141666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>POBIL (10708)</name>
+			<Point>
+				<coordinates>1.8233333333,41.7661111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>POBOS (10710)</name>
+			<Point>
+				<coordinates>-1.7688888889,38.7191666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PODAS (10718)</name>
+			<Point>
+				<coordinates>-5.1241666667,37.7977777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PODOG (10728)</name>
+			<Point>
+				<coordinates>-4.4402777778,41.3119444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PODUX (10735)</name>
+			<Point>
+				<coordinates>-1.8816666667,42.9011111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>POLOP (10757)</name>
+			<Point>
+				<coordinates>-0.1786111111,38.3961111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PONEN (10768)</name>
+			<Point>
+				<coordinates>-0.5475,41.3538888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PONTE (10769)</name>
+			<Point>
+				<coordinates>-8.1219444444,43.2980555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>POR07 (10775)</name>
+			<Point>
+				<coordinates>-8.5049099833,41.1012499167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>POR08 (10776)</name>
+			<Point>
+				<coordinates>-8.5962817833,41.4491136333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PORBU (10778)</name>
+			<Point>
+				<coordinates>3.2008333333,42.4311111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PORLI (10779)</name>
+			<Point>
+				<coordinates>-7.3663888889,39.5288888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PORTA (10780)</name>
+			<Point>
+				<coordinates>-7.3025,39.33,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>POS (10781)</name>
+			<Point>
+				<coordinates>3.1147222222,39.9275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>POSBA (10782)</name>
+			<Point>
+				<coordinates>2.9052777778,40.2197222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>POSSY (10783)</name>
+			<Point>
+				<coordinates>0.1572222222,42.0613888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PPG (10792)</name>
+			<Point>
+				<coordinates>2.8672222222,42.7505555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PPN (10793)</name>
+			<Point>
+				<coordinates>-1.7019444444,42.7338888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PPN.A (10794)</name>
+			<Point>
+				<coordinates>-1.6454431333,42.7718839833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PPN.D (10795)</name>
+			<Point>
+				<coordinates>-1.6337247833,42.7365649833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRADA (10801)</name>
+			<Point>
+				<coordinates>-1.8358333333,40.4655555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PRADO (10802)</name>
+			<Point>
+				<coordinates>-2.0102777778,40.1475,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PTC (10821)</name>
+			<Point>
+				<coordinates>3.2566666667,39.4272222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PU (10825)</name>
+			<Point>
+				<coordinates>-0.305,43.3205555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PUBLA (10827)</name>
+			<Point>
+				<coordinates>-5.3555555556,37.25,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PUMAL (10830)</name>
+			<Point>
+				<coordinates>2.0083333333,42.3669444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RAFOL (10853)</name>
+			<Point>
+				<coordinates>-0.0169444444,37.9494444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RAKOD (10857)</name>
+			<Point>
+				<coordinates>-6.6286111111,39.7808333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RAKOR (10858)</name>
+			<Point>
+				<coordinates>-4.1341666667,36.72,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RALUS (10868)</name>
+			<Point>
+				<coordinates>-7.1163888889,41.9366666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RAMON (10880)</name>
+			<Point>
+				<coordinates>-0.2852777778,41.0091666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RAPES (10897)</name>
+			<Point>
+				<coordinates>1.9133333333,43.2466666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RARUR (10912)</name>
+			<Point>
+				<coordinates>-8.4927777778,39.6655555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RATAS (10940)</name>
+			<Point>
+				<coordinates>-4.0308333333,42.5744444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RAVAX (10970)</name>
+			<Point>
+				<coordinates>2.0880555556,40.9205555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RBO (10989)</name>
+			<Point>
+				<coordinates>-3.2466666667,40.8538888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RBO01 (10990)</name>
+			<Point>
+				<coordinates>-3.3848052833,40.7204721667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>REBUL (11016)</name>
+			<Point>
+				<coordinates>1.1136111111,41.6977777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RELVA (11062)</name>
+			<Point>
+				<coordinates>-8.5975,41.8527777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RES (11114)</name>
+			<Point>
+				<coordinates>1.1711111111,41.1497222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RES.A (11115)</name>
+			<Point>
+				<coordinates>1.1869708,41.1431879333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RES.D (11116)</name>
+			<Point>
+				<coordinates>1.1648040167,41.1367288833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RES01 (11117)</name>
+			<Point>
+				<coordinates>0.9115302,41.0547276833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RES05 (11118)</name>
+			<Point>
+				<coordinates>1.0948994167,41.4125538167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RESBI (11119)</name>
+			<Point>
+				<coordinates>-4.1877777778,40.7366666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RESTU (11134)</name>
+			<Point>
+				<coordinates>-1.5575,37.9075,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RESVA (11135)</name>
+			<Point>
+				<coordinates>-3.4430555556,43.4216666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RETBA (11136)</name>
+			<Point>
+				<coordinates>-0.9088888889,39.4436111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>REVAT (11147)</name>
+			<Point>
+				<coordinates>-2.9427777778,40.3830555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RIBAS (11172)</name>
+			<Point>
+				<coordinates>1.6319444444,41.0352777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RIBOU (11175)</name>
+			<Point>
+				<coordinates>1.9288888889,43.0797222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RIDAV (11179)</name>
+			<Point>
+				<coordinates>-5.8083333333,40.5352777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RIDER (11181)</name>
+			<Point>
+				<coordinates>-0.7052777778,37.9972222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RILUK (11226)</name>
+			<Point>
+				<coordinates>1.3522222222,41.4358333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RIMES (11236)</name>
+			<Point>
+				<coordinates>-0.0638888889,40.5580555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RIMTU (11249)</name>
+			<Point>
+				<coordinates>-8.3669444444,43.3225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RINDI (11253)</name>
+			<Point>
+				<coordinates>-0.0636111111,37.1055555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RIPUX (11283)</name>
+			<Point>
+				<coordinates>-0.4397222222,39.2466666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RISPO (11302)</name>
+			<Point>
+				<coordinates>-2.29,37.2997222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RITUS (11318)</name>
+			<Point>
+				<coordinates>-8.1994444444,41.8236111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RIVRO (11337)</name>
+			<Point>
+				<coordinates>-6.7227777778,40.6227777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RIXAL (11342)</name>
+			<Point>
+				<coordinates>-2.0177777778,36.7844444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RIXUR (11349)</name>
+			<Point>
+				<coordinates>-3.6363888889,37.1088888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RMA (11358)</name>
+			<Point>
+				<coordinates>-4.4766666667,36.6588888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ROBIP (11383)</name>
+			<Point>
+				<coordinates>-2.2372222222,36.6994444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ROCAN (11399)</name>
+			<Point>
+				<coordinates>1.9466666667,42.6733333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ROCIO (11401)</name>
+			<Point>
+				<coordinates>-6.4547222222,37.2980555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RODAP (11403)</name>
+			<Point>
+				<coordinates>-7.0652777778,39.6325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RODRA (11417)</name>
+			<Point>
+				<coordinates>1.7302777778,41.0513888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ROLAS (11465)</name>
+			<Point>
+				<coordinates>-2.8544444444,37.4155555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ROLDO (11469)</name>
+			<Point>
+				<coordinates>-5.5447222222,39.8758333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RONAL (11520)</name>
+			<Point>
+				<coordinates>1.9116666667,41.7616666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RONDA (11524)</name>
+			<Point>
+				<coordinates>-5.1466666667,36.6944444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RONDU (11526)</name>
+			<Point>
+				<coordinates>1.5427777778,38.8233333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RONKO (11534)</name>
+			<Point>
+				<coordinates>-1.0305555556,42.4958333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RONVA (11545)</name>
+			<Point>
+				<coordinates>-5.7866666667,36.8702777833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ROSAL (11566)</name>
+			<Point>
+				<coordinates>-7.1011111111,38.0213888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ROSTO (11585)</name>
+			<Point>
+				<coordinates>-3.0891666667,43.3769444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ROTEX (11598)</name>
+			<Point>
+				<coordinates>-5.6022222222,37.4186111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ROVAK (11617)</name>
+			<Point>
+				<coordinates>-5.8563888889,42.7419444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ROVAP (11620)</name>
+			<Point>
+				<coordinates>0.8161111111,41.6044444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ROXER (11637)</name>
+			<Point>
+				<coordinates>-7.3575,43.2130555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RUBEO (11667)</name>
+			<Point>
+				<coordinates>-0.6863888889,40.9541666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RUBOT (11677)</name>
+			<Point>
+				<coordinates>1.7058333333,40.9738888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RUKER (11708)</name>
+			<Point>
+				<coordinates>-4.6111111111,39.9494444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RULOS (11712)</name>
+			<Point>
+				<coordinates>2.2813888889,41.1772222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RUPIT (11733)</name>
+			<Point>
+				<coordinates>2.0269444444,39.4527777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RUSEM (11735)</name>
+			<Point>
+				<coordinates>-4.8469444444,39.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RUVEN (11756)</name>
+			<Point>
+				<coordinates>-5.5144444444,37.6538888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RUXET (11763)</name>
+			<Point>
+				<coordinates>0.675,38.6688888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SABAS (11810)</name>
+			<Point>
+				<coordinates>2.4155555556,39.2338888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SADAF (11813)</name>
+			<Point>
+				<coordinates>2.3288888889,37.8036111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SADEM (11814)</name>
+			<Point>
+				<coordinates>3.1738888889,41.2102777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SADUR (11816)</name>
+			<Point>
+				<coordinates>1.6738888889,41.4172222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SALAS (11830)</name>
+			<Point>
+				<coordinates>0.4763888889,41.1097222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SALON (11838)</name>
+			<Point>
+				<coordinates>3.1872222222,41.4944444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SALSI (11839)</name>
+			<Point>
+				<coordinates>2.3572222222,43.3477777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SANIS (11855)</name>
+			<Point>
+				<coordinates>2.0036111111,41.1091666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SANJU (11856)</name>
+			<Point>
+				<coordinates>-5.75,37.0541666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SANSI (11857)</name>
+			<Point>
+				<coordinates>-1.07,37.4975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SANTA (11858)</name>
+			<Point>
+				<coordinates>-6.2983333333,37.6686111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SANTI (11859)</name>
+			<Point>
+				<coordinates>-3.3241666667,38.2908333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SANTU (11860)</name>
+			<Point>
+				<coordinates>-3.1166666667,43.3227777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SARAN (11869)</name>
+			<Point>
+				<coordinates>3.4797222222,37.1441666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SARGO (11872)</name>
+			<Point>
+				<coordinates>3.9919444444,40.5,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SARRA (11875)</name>
+			<Point>
+				<coordinates>-2.5661111111,43.1741666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SAURA (11886)</name>
+			<Point>
+				<coordinates>-0.1833333333,40.2561111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SEDIL (11916)</name>
+			<Point>
+				<coordinates>-1.4327777778,41.3236111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SEGRE (11918)</name>
+			<Point>
+				<coordinates>-2.3763888889,41.0227777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SELVA (11923)</name>
+			<Point>
+				<coordinates>1.1663888889,41.1961111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SENIA (11926)</name>
+			<Point>
+				<coordinates>0.7388888889,40.8686111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SEROX (11934)</name>
+			<Point>
+				<coordinates>0.2186111111,41.3466666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SERRA (11935)</name>
+			<Point>
+				<coordinates>-0.8569444444,39.2661111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SGO (11954)</name>
+			<Point>
+				<coordinates>-0.2077777778,39.6741666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SGO.2 (11955)</name>
+			<Point>
+				<coordinates>-0.2225773167,39.68407415,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SIJAN (11979)</name>
+			<Point>
+				<coordinates>2.9369444444,43.1975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SINDO (11990)</name>
+			<Point>
+				<coordinates>1.3236111111,42.1361111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SIRGU (12010)</name>
+			<Point>
+				<coordinates>-2.6002777778,40.2605555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SISMO (12026)</name>
+			<Point>
+				<coordinates>3.1458333333,40.6091666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SLL (12082)</name>
+			<Point>
+				<coordinates>2.1097222222,41.52,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SLL.A (12083)</name>
+			<Point>
+				<coordinates>2.0225334833,41.5145652667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SLL.D (12084)</name>
+			<Point>
+				<coordinates>2.0429941,41.5083937833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SOBRO (12132)</name>
+			<Point>
+				<coordinates>-0.8961111111,39.4002777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SOLAX (12180)</name>
+			<Point>
+				<coordinates>-4.9491666667,39.2425,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SOMAN (12194)</name>
+			<Point>
+				<coordinates>-3.275,43.3386111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SONTA (12255)</name>
+			<Point>
+				<coordinates>1.1169444444,38.7730555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SOPET (12271)</name>
+			<Point>
+				<coordinates>-0.0047222222,39.8338888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SORPO (12321)</name>
+			<Point>
+				<coordinates>-3.5375,43.3522222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SOSAV (12330)</name>
+			<Point>
+				<coordinates>-1.4955555556,39.2736111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SOTEX (12356)</name>
+			<Point>
+				<coordinates>-8.22,38.2927777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SOTIL (12357)</name>
+			<Point>
+				<coordinates>2.2986111111,41.3588888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SOTUK (12362)</name>
+			<Point>
+				<coordinates>-4.7463888889,39.1936111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SOVAR (12376)</name>
+			<Point>
+				<coordinates>-0.2444444444,42.7880555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SOVOS (12390)</name>
+			<Point>
+				<coordinates>-0.9,43.3869444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SPIEL (12407)</name>
+			<Point>
+				<coordinates>-5.0613888889,38.1663888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SPP (12413)</name>
+			<Point>
+				<coordinates>-5.7955555556,37.4180555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SSN (12432)</name>
+			<Point>
+				<coordinates>-1.8302777778,43.3111111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SSY (12435)</name>
+			<Point>
+				<coordinates>-3.5752777778,40.5463888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SSY01 (12436)</name>
+			<Point>
+				<coordinates>-3.6712622,40.63979475,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>STG (12450)</name>
+			<Point>
+				<coordinates>-8.4252777778,42.9266666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SUDAD (12501)</name>
+			<Point>
+				<coordinates>-0.0111111111,43.1638888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SUKOS (12534)</name>
+			<Point>
+				<coordinates>2.2363888889,41.2844444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SULID (12543)</name>
+			<Point>
+				<coordinates>3.4413888889,41.1844444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SULIT (12545)</name>
+			<Point>
+				<coordinates>1.2525,43.3836111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SUMMO (12563)</name>
+			<Point>
+				<coordinates>-0.2816666667,38.3602777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SUNIR (12577)</name>
+			<Point>
+				<coordinates>-3.1338888889,43.3875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SUPOS (12600)</name>
+			<Point>
+				<coordinates>-1.7205555556,42.8713888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SURCO (12607)</name>
+			<Point>
+				<coordinates>-0.5680555556,42.3288888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SURIB (12609)</name>
+			<Point>
+				<coordinates>1.9169444444,38.3422222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SUSOS (12625)</name>
+			<Point>
+				<coordinates>-5.4427777778,42.7063888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SVL (12664)</name>
+			<Point>
+				<coordinates>-5.7622222222,37.4275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SVL.2 (12665)</name>
+			<Point>
+				<coordinates>-5.7450346,37.4324328667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SVL.A (12666)</name>
+			<Point>
+				<coordinates>-5.89729515,37.4195846,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SVL.D (12667)</name>
+			<Point>
+				<coordinates>-5.9154215333,37.4280927333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>T1082 (12681)</name>
+			<Point>
+				<coordinates>-8.0679425,37.0257811167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TAB (12685)</name>
+			<Point>
+				<coordinates>-1.8636111111,38.9458333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TAGOM (12731)</name>
+			<Point>
+				<coordinates>-3.4322222222,40.9836111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TAGUX (12737)</name>
+			<Point>
+				<coordinates>-7.9141666667,38.9455555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TALEN (12757)</name>
+			<Point>
+				<coordinates>3.1313888889,39.1177777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TALOL (12763)</name>
+			<Point>
+				<coordinates>0.5583333333,43.3211111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TAMOS (12771)</name>
+			<Point>
+				<coordinates>-3.8,40.3522222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TASOS (12787)</name>
+			<Point>
+				<coordinates>2.6497222222,40.9458333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TATOS (12789)</name>
+			<Point>
+				<coordinates>-0.2836111111,40.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TBC (12800)</name>
+			<Point>
+				<coordinates>-6.8186111111,38.8916666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TBO (12802)</name>
+			<Point>
+				<coordinates>0.1458333333,43.3322222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TBO.A (12803)</name>
+			<Point>
+				<coordinates>0.0026345833,43.1906523667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TBO.D (12804)</name>
+			<Point>
+				<coordinates>-0.0061062,43.1856326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TBO01 (12805)</name>
+			<Point>
+				<coordinates>0.9207309667,43.2877248333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TBO02 (12806)</name>
+			<Point>
+				<coordinates>1.05902555,43.2766623833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TEBLA (12820)</name>
+			<Point>
+				<coordinates>2.325,41.3811111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TEMIR (12865)</name>
+			<Point>
+				<coordinates>-2.5038888889,39.9469444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TENDU (12874)</name>
+			<Point>
+				<coordinates>-6.1175,37.4175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TEPTI (12890)</name>
+			<Point>
+				<coordinates>0.3988888889,43.4094444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TERSA (12900)</name>
+			<Point>
+				<coordinates>-2.1377833333,40.725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TETIS (12918)</name>
+			<Point>
+				<coordinates>3.9380555556,39.8972222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>THUNE (12953)</name>
+			<Point>
+				<coordinates>-1.5663888889,43.2538888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TILNO (12986)</name>
+			<Point>
+				<coordinates>1.0055555556,38.765,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TINEK (13016)</name>
+			<Point>
+				<coordinates>-3.6288888889,37.6519444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TINEL (13017)</name>
+			<Point>
+				<coordinates>1.6363888889,38.9169444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TIRGO (13062)</name>
+			<Point>
+				<coordinates>1.1261111111,41.7844444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TISGO (13084)</name>
+			<Point>
+				<coordinates>2.6861111111,41.7066666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TITAN (13094)</name>
+			<Point>
+				<coordinates>-3.975,42.9577777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TJZ (13125)</name>
+			<Point>
+				<coordinates>-3.4455555556,40.4988888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TL (13126)</name>
+			<Point>
+				<coordinates>0.0497222222,43.2883333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TLD (13130)</name>
+			<Point>
+				<coordinates>-4.3375,39.9694444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TLD01 (13131)</name>
+			<Point>
+				<coordinates>-4.0471143167,39.6384119833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TOBEK (13192)</name>
+			<Point>
+				<coordinates>-3.4244444444,40.1963888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TOL.A (13225)</name>
+			<Point>
+				<coordinates>-3.4619205667,40.4949041667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TOL.D (13226)</name>
+			<Point>
+				<coordinates>-3.4508020667,40.49097665,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TOLSO (13239)</name>
+			<Point>
+				<coordinates>2.3927777778,40.5,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TOLSU (13240)</name>
+			<Point>
+				<coordinates>-4.4708333333,37.1341666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TOLVO (13242)</name>
+			<Point>
+				<coordinates>-5.615,37.6677777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TONIS (13263)</name>
+			<Point>
+				<coordinates>3.2619444444,39.775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TORDU (13284)</name>
+			<Point>
+				<coordinates>0.5883333333,40.2580555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TORRE (13298)</name>
+			<Point>
+				<coordinates>-6.4627777778,36.9683333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TOSDI (13304)</name>
+			<Point>
+				<coordinates>-6.2886111111,40.9908333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TOSGA (13305)</name>
+			<Point>
+				<coordinates>-2.3072222222,37.6255555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TOSNU (13309)</name>
+			<Point>
+				<coordinates>3.8069444444,41.0152777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TOSTO (13312)</name>
+			<Point>
+				<coordinates>-1.9361111111,38.3641666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TSC (13381)</name>
+			<Point>
+				<coordinates>-5.5025,40.9552777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TUENT (13412)</name>
+			<Point>
+				<coordinates>2.6188888889,39.845,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TUKRO (13421)</name>
+			<Point>
+				<coordinates>2.6105555556,39.2461111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TULNO (13430)</name>
+			<Point>
+				<coordinates>-0.00694445,39.4838888833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TUNDI (13450)</name>
+			<Point>
+				<coordinates>1.5702777778,40.8188888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TUPIX (13469)</name>
+			<Point>
+				<coordinates>-7.3833333333,37.0761111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TURON (13504)</name>
+			<Point>
+				<coordinates>-8.5633333333,42.0680555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TURPU (13505)</name>
+			<Point>
+				<coordinates>-1.5425,42.6777777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TURUV (13509)</name>
+			<Point>
+				<coordinates>0.475,42.3675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TVD (13566)</name>
+			<Point>
+				<coordinates>-4.8497222222,41.7041666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UBESO (13590)</name>
+			<Point>
+				<coordinates>-7.8138888889,36.7475,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UDALA (13606)</name>
+			<Point>
+				<coordinates>-2.5105555556,43.1102777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ULPEP (13652)</name>
+			<Point>
+				<coordinates>-3.8091666667,36.7108333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ULSES (13664)</name>
+			<Point>
+				<coordinates>-2.4955555556,39.8691666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ULVAX (13676)</name>
+			<Point>
+				<coordinates>-7.8344444444,41.0041666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UNGAS (13750)</name>
+			<Point>
+				<coordinates>-3.6997222222,42.6822222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UNSOL (13787)</name>
+			<Point>
+				<coordinates>-4.6111111111,41.1588888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UNTOS (13791)</name>
+			<Point>
+				<coordinates>-3.2777777778,37.2505555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UREDI (13842)</name>
+			<Point>
+				<coordinates>-6.3933333333,39.8597222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>URIAS (13850)</name>
+			<Point>
+				<coordinates>-0.5,39.2358333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>URIPO (13855)</name>
+			<Point>
+				<coordinates>0.4833333333,38.9241666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>URUNA (13868)</name>
+			<Point>
+				<coordinates>-1.7402777778,43.355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>USADO (13870)</name>
+			<Point>
+				<coordinates>-3.6544444444,39.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>USALU (13874)</name>
+			<Point>
+				<coordinates>-8.3002777778,37.2222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>USERA (13881)</name>
+			<Point>
+				<coordinates>-3.625,37.9177777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>USIBA (13883)</name>
+			<Point>
+				<coordinates>-5.6105555556,39.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>USIVI (13888)</name>
+			<Point>
+				<coordinates>-8.2113888889,39.6963888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>USKAR (13890)</name>
+			<Point>
+				<coordinates>1.0658333333,42.1436111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VAB (13994)</name>
+			<Point>
+				<coordinates>-1.8594444444,38.9472222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VABAR (13995)</name>
+			<Point>
+				<coordinates>-2.6152777778,42.1711111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VABUS (14017)</name>
+			<Point>
+				<coordinates>-2.64,42.4975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VAKIN (14062)</name>
+			<Point>
+				<coordinates>-0.3533333333,41.9047222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VAKPI (14070)</name>
+			<Point>
+				<coordinates>0.0936111111,43.375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VALDE (14090)</name>
+			<Point>
+				<coordinates>-1.66,39.0372222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VAMIS (14122)</name>
+			<Point>
+				<coordinates>-3.5091666667,43.1711111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VAMUS (14130)</name>
+			<Point>
+				<coordinates>-3.5140535,43.1739889667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VARUT (14172)</name>
+			<Point>
+				<coordinates>0.675,39.0222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VASIP (14177)</name>
+			<Point>
+				<coordinates>-8.3761111111,41.555,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VASOR (14182)</name>
+			<Point>
+				<coordinates>-6.7786111111,38.5575,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VASUM (14186)</name>
+			<Point>
+				<coordinates>-2.0111111111,42.2719444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VATIR (14196)</name>
+			<Point>
+				<coordinates>4.1155555556,42.1722222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VBZ (14227)</name>
+			<Point>
+				<coordinates>-6.8158333333,38.89,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VEGEL (14255)</name>
+			<Point>
+				<coordinates>-2.0258333333,42.5927777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VEMAK (14295)</name>
+			<Point>
+				<coordinates>-3.2863888889,40.6605555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VENOL (14320)</name>
+			<Point>
+				<coordinates>-8.2569444444,37.0733333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VENTI (14325)</name>
+			<Point>
+				<coordinates>-2.5077777778,43.2541666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VERDE (14338)</name>
+			<Point>
+				<coordinates>-6.5225,37.5275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VEREG (14340)</name>
+			<Point>
+				<coordinates>-3.625,37.71,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VERSO (14349)</name>
+			<Point>
+				<coordinates>3.7569444444,41.1530555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VETAN (14369)</name>
+			<Point>
+				<coordinates>-5.7158333333,41.9619444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VETAR (14370)</name>
+			<Point>
+				<coordinates>-0.4933333333,42.1780555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VFA (14392)</name>
+			<Point>
+				<coordinates>-7.975,37.0136111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VFD (14393)</name>
+			<Point>
+				<coordinates>-2.7244444444,42.8805555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VGE (14396)</name>
+			<Point>
+				<coordinates>-3.7261111111,40.2897222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VGO (14397)</name>
+			<Point>
+				<coordinates>-8.6016666667,42.3213888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VIBAS (14410)</name>
+			<Point>
+				<coordinates>-3.6308333333,37.3922222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VIBIM (14415)</name>
+			<Point>
+				<coordinates>2.2063888889,41.0708333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VIBOK (14417)</name>
+			<Point>
+				<coordinates>1.5019444444,41.5469444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VICAR (14426)</name>
+			<Point>
+				<coordinates>-5.7822222222,37.2513888889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VIGIA (14437)</name>
+			<Point>
+				<coordinates>-6.5727777778,36.9383333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VILAR (14447)</name>
+			<Point>
+				<coordinates>0.5658333333,41.3416666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VILGA (14448)</name>
+			<Point>
+				<coordinates>1.8947222222,40.7644444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VILLA (14450)</name>
+			<Point>
+				<coordinates>-2.4105555556,40.2330555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VILNA (14451)</name>
+			<Point>
+				<coordinates>-0.8166666667,38.5397222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VIRTU (14461)</name>
+			<Point>
+				<coordinates>-2.4994444444,40.5622222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VIS (14462)</name>
+			<Point>
+				<coordinates>-7.8858333333,40.7233333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VISON (14464)</name>
+			<Point>
+				<coordinates>-3.5025,40.1611111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VJ025 (14469)</name>
+			<Point>
+				<coordinates>-2.8056998833,40.93833315,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VJZ (14472)</name>
+			<Point>
+				<coordinates>-3.3602777778,40.5641666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VJZ.d (14473)</name>
+			<Point>
+				<coordinates>-3.3579743667,40.5557812167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VJZ01 (14474)</name>
+			<Point>
+				<coordinates>-3.2478838,40.2422156,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VJZ04 (14475)</name>
+			<Point>
+				<coordinates>-3.6721250333,40.3291508833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VJZ08 (14476)</name>
+			<Point>
+				<coordinates>-3.1042727667,39.7727199333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VLA (14479)</name>
+			<Point>
+				<coordinates>1.5477777778,41.3427777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VLC (14480)</name>
+			<Point>
+				<coordinates>-0.4830555556,39.4855555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VLC.A (14481)</name>
+			<Point>
+				<coordinates>-0.4724928667,39.4977367333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VLC.D (14482)</name>
+			<Point>
+				<coordinates>-0.52489605,39.48674135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VLD (14483)</name>
+			<Point>
+				<coordinates>-4.7391666667,41.7894444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VNV (14492)</name>
+			<Point>
+				<coordinates>1.7058333333,41.2105555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VNv (14493)</name>
+			<Point>
+				<coordinates>1.6926711,41.2082893833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VOGEL (14495)</name>
+			<Point>
+				<coordinates>-2.0194768333,42.58932735,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VRA (14504)</name>
+			<Point>
+				<coordinates>-2.8655555556,42.7319444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VSJ (14514)</name>
+			<Point>
+				<coordinates>-0.8127777778,37.7797222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VSJ.A (14515)</name>
+			<Point>
+				<coordinates>-0.8432449833,37.7862584167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VSJ.D (14516)</name>
+			<Point>
+				<coordinates>-0.8283235667,37.7782019167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VTA (14520)</name>
+			<Point>
+				<coordinates>-2.6797222222,42.9280555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VTB (14521)</name>
+			<Point>
+				<coordinates>-3.4641666667,39.7808333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VTZ (14524)</name>
+			<Point>
+				<coordinates>-3.4719444444,40.4755555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VULPE (14526)</name>
+			<Point>
+				<coordinates>-4.7983333333,37.7611111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WALLY (14551)</name>
+			<Point>
+				<coordinates>-1.0941666667,39.7544444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>XALUD (14736)</name>
+			<Point>
+				<coordinates>-4.9619444444,39.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>XAMAX (14742)</name>
+			<Point>
+				<coordinates>-8.5361111111,40.0311111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>XAMUR (14746)</name>
+			<Point>
+				<coordinates>2.8719444444,41.4030555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>XAPAS (14757)</name>
+			<Point>
+				<coordinates>-7.95,37.5972222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>XARON (14762)</name>
+			<Point>
+				<coordinates>2.8538888889,38.405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>XEBAR (14775)</name>
+			<Point>
+				<coordinates>-2.0927777778,38.5211111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>XEPLA (14800)</name>
+			<Point>
+				<coordinates>2.0725,41.6872222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>XERMA (14809)</name>
+			<Point>
+				<coordinates>-3.6136111111,41.5036111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>XESPA (14815)</name>
+			<Point>
+				<coordinates>3.1416666667,38.5969444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>XETAN (14816)</name>
+			<Point>
+				<coordinates>-5.9294444444,37.0177777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>XONDA (14868)</name>
+			<Point>
+				<coordinates>-5.9122222222,43.0619444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>XOSTA (14877)</name>
+			<Point>
+				<coordinates>0.7416666667,39.1330555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>XULSA (14885)</name>
+			<Point>
+				<coordinates>-4.2694444444,39.0,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>XURAL (14890)</name>
+			<Point>
+				<coordinates>2.7211111111,39.2872222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>YES (14899)</name>
+			<Point>
+				<coordinates>-2.3525,38.3608333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZANKO (14919)</name>
+			<Point>
+				<coordinates>-4.9647222222,41.2880555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZAR.A (14920)</name>
+			<Point>
+				<coordinates>-1.0553142667,41.6611099667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZAR.D (14921)</name>
+			<Point>
+				<coordinates>-1.0370439667,41.6694129833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZARKO (14922)</name>
+			<Point>
+				<coordinates>-0.7927777778,42.005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZEM (14931)</name>
+			<Point>
+				<coordinates>3.5716666667,36.7961111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZMR (14941)</name>
+			<Point>
+				<coordinates>-5.6397222222,41.5302777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZORBA (14947)</name>
+			<Point>
+				<coordinates>-5.3938888889,40.1880555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZORIN (14948)</name>
+			<Point>
+				<coordinates>-0.9813888889,38.2919444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZR (14949)</name>
+			<Point>
+				<coordinates>3.2830555556,43.3269444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZRZ (14953)</name>
+			<Point>
+				<coordinates>-1.1933333333,41.7305555556,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZUFRE (14956)</name>
+			<Point>
+				<coordinates>-6.2752777778,37.8077777778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZUJAR (14957)</name>
+			<Point>
+				<coordinates>-5.3116666667,38.9786111111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZURDO (14958)</name>
+			<Point>
+				<coordinates>1.445,39.1108333333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZURIA (14959)</name>
+			<Point>
+				<coordinates>-2.4497222222,42.8175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ZZA (15001)</name>
+			<Point>
+				<coordinates>-0.8782301333,41.6028794,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>
